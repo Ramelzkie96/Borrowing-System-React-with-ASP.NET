@@ -51,9 +51,9 @@ const Sidebar = () => {
         {/* Manage Items (collapsible) */}
         <button
           onClick={() => setIsManageOpen(!isManageOpen)}
-          className="flex items-center justify-between w-full px-4 py-2 rounded-lg text-left text-blue-100 hover:bg-blue-600 hover:text-white transition"
+          className="flex items-center justify-between w-full px-4 py-2 rounded-lg text-left text-blue-100 hover:bg-blue-600 hover:text-white transition cursor-pointer"
         >
-          <span className="flex items-center gap-3">
+          <span className="flex items-center gap-3 cursor-pointer">
             <Package size={20} />
             Manage Items
           </span>
@@ -98,9 +98,9 @@ const Sidebar = () => {
         {/* Manage Accounts (collapsible) */}
         <button
           onClick={() => setIsAccountsOpen(!isAccountsOpen)}
-          className="flex items-center justify-between w-full px-4 py-2 rounded-lg text-left text-blue-100 hover:bg-blue-600 hover:text-white transition"
+          className="flex items-center justify-between w-full px-4 py-2 rounded-lg text-left text-blue-100 hover:bg-blue-600 hover:text-white transition cursor-pointer"
         >
-          <span className="flex items-center gap-3">
+          <span className="flex items-center gap-3 cursor-pointer">
             <Settings size={20} />
             Manage Accounts
           </span>

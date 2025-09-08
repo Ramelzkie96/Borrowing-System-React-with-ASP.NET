@@ -1,11 +1,19 @@
 import React from "react";
 import { Bell, User } from "lucide-react";
+import Logo from "../../assets/pit_logo.png"
+
 
 const Navbar = () => {
   return (
     <header className="mb-6 flex justify-between items-center bg-white shadow px-6 py-3 rounded-lg">
-      {/* Page Title */}
-      <h1 className="text-2xl font-bold text-blue-700">Admin Panel</h1>
+      {/* Logo (dummy for now) */}
+      <div className="flex items-center gap-2">
+        <img
+          src={Logo} // dummy logo, replace later
+          alt="Logo"
+          className="w-10 h-10 rounded-full object-cover"
+        />
+      </div>
 
       {/* Right Section */}
       <div className="flex items-center gap-6">
