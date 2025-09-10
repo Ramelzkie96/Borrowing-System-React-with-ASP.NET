@@ -7,6 +7,7 @@ import AdminDashboard from "./pages/admin/Dashboard";
 // Auth pages
 import Login from "./pages/auth/Login";
 import Users from "./pages/admin/Users";
+import AddItem from "./pages/admin/AddItem";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <Route element={<AdminLayout />}>
           <Route path="/admin/dashboard" element={<AdminDashboard />} />
           <Route path="/admin/users" element={<Users />}/>
+          <Route path="/admin/manage-items/add" element={<AddItem />} />
           {/* You can add more admin pages here */}
           {/* <Route path="/admin/history" element={<AdminHistory />} /> */}
           {/* <Route path="/admin/borrow" element={<AdminBorrow />} /> */}
