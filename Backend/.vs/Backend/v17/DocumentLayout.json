@@ -1,26 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\REACT ASP NET MVC\\Borrowing System\\Backend\\",
+  "WorkspaceRootPath": "C:\\Users\\ssasg\\source\\repos\\BorrowSystem\\Borrowing-System-React-with-ASP.NET\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48C72DDE-F9BD-4E96-97E2-D377BF18E4A1}|Backend.csproj|c:\\users\\asus\\documents\\react asp net mvc\\borrowing system\\backend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48C72DDE-F9BD-4E96-97E2-D377BF18E4A1}|Backend.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48C72DDE-F9BD-4E96-97E2-D377BF18E4A1}|Backend.csproj|c:\\users\\ssasg\\source\\repos\\borrowsystem\\borrowing-system-react-with-asp.net\\backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C72DDE-F9BD-4E96-97E2-D377BF18E4A1}|Backend.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48C72DDE-F9BD-4E96-97E2-D377BF18E4A1}|Backend.csproj|c:\\users\\asus\\documents\\react asp net mvc\\borrowing system\\backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48C72DDE-F9BD-4E96-97E2-D377BF18E4A1}|Backend.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48C72DDE-F9BD-4E96-97E2-D377BF18E4A1}|Backend.csproj|c:\\users\\ssasg\\source\\repos\\borrowsystem\\borrowing-system-react-with-asp.net\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C72DDE-F9BD-4E96-97E2-D377BF18E4A1}|Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48C72DDE-F9BD-4E96-97E2-D377BF18E4A1}|Backend.csproj|c:\\users\\asus\\documents\\react asp net mvc\\borrowing system\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{48C72DDE-F9BD-4E96-97E2-D377BF18E4A1}|Backend.csproj|c:\\users\\ssasg\\source\\repos\\borrowsystem\\borrowing-system-react-with-asp.net\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{48C72DDE-F9BD-4E96-97E2-D377BF18E4A1}|Backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48C72DDE-F9BD-4E96-97E2-D377BF18E4A1}|Backend.csproj|c:\\users\\asus\\documents\\react asp net mvc\\borrowing system\\backend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48C72DDE-F9BD-4E96-97E2-D377BF18E4A1}|Backend.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48C72DDE-F9BD-4E96-97E2-D377BF18E4A1}|Backend.csproj|c:\\users\\ssasg\\source\\repos\\borrowsystem\\borrowing-system-react-with-asp.net\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48C72DDE-F9BD-4E96-97E2-D377BF18E4A1}|Backend.csproj|solutionrelative:backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48C72DDE-F9BD-4E96-97E2-D377BF18E4A1}|Backend.csproj|c:\\users\\asus\\documents\\react asp net mvc\\borrowing system\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48C72DDE-F9BD-4E96-97E2-D377BF18E4A1}|Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48C72DDE-F9BD-4E96-97E2-D377BF18E4A1}|Backend.csproj|c:\\users\\ssasg\\source\\repos\\borrowsystem\\borrowing-system-react-with-asp.net\\backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C72DDE-F9BD-4E96-97E2-D377BF18E4A1}|Backend.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ssasg\\source\\repos\\BorrowSystem\\Borrowing-System-React-with-ASP.NET\\Backend\\Migrations\\20250915034137_SeedAdminUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250915034137_SeedAdminUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C72DDE-F9BD-4E96-97E2-D377BF18E4A1}|Backend.csproj|c:\\users\\ssasg\\source\\repos\\borrowsystem\\borrowing-system-react-with-asp.net\\backend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C72DDE-F9BD-4E96-97E2-D377BF18E4A1}|Backend.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C72DDE-F9BD-4E96-97E2-D377BF18E4A1}|Backend.csproj|c:\\users\\ssasg\\source\\repos\\borrowsystem\\borrowing-system-react-with-asp.net\\backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C72DDE-F9BD-4E96-97E2-D377BF18E4A1}|Backend.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C72DDE-F9BD-4E96-97E2-D377BF18E4A1}|Backend.csproj|c:\\users\\ssasg\\source\\repos\\borrowsystem\\borrowing-system-react-with-asp.net\\backend\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C72DDE-F9BD-4E96-97E2-D377BF18E4A1}|Backend.csproj|solutionrelative:data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C72DDE-F9BD-4E96-97E2-D377BF18E4A1}|Backend.csproj|c:\\users\\ssasg\\source\\repos\\borrowsystem\\borrowing-system-react-with-asp.net\\backend\\migrations\\20250914134958_addusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C72DDE-F9BD-4E96-97E2-D377BF18E4A1}|Backend.csproj|solutionrelative:migrations\\20250914134958_addusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C72DDE-F9BD-4E96-97E2-D377BF18E4A1}|Backend.csproj|c:\\users\\ssasg\\source\\repos\\borrowsystem\\borrowing-system-react-with-asp.net\\backend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C72DDE-F9BD-4E96-97E2-D377BF18E4A1}|Backend.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,30 +54,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ssasg\\source\\repos\\BorrowSystem\\Borrowing-System-React-with-ASP.NET\\Backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ssasg\\source\\repos\\BorrowSystem\\Borrowing-System-React-with-ASP.NET\\Backend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wCMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T04:07:07.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ssasg\\source\\repos\\BorrowSystem\\Borrowing-System-React-with-ASP.NET\\Backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ssasg\\source\\repos\\BorrowSystem\\Borrowing-System-React-with-ASP.NET\\Backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T04:06:32.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250915034137_SeedAdminUser.cs",
+              "DocumentMoniker": "C:\\Users\\ssasg\\source\\repos\\BorrowSystem\\Borrowing-System-React-with-ASP.NET\\Backend\\Migrations\\20250915034137_SeedAdminUser.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250915034137_SeedAdminUser.cs",
+              "ToolTip": "C:\\Users\\ssasg\\source\\repos\\BorrowSystem\\Borrowing-System-React-with-ASP.NET\\Backend\\Migrations\\20250915034137_SeedAdminUser.cs",
+              "RelativeToolTip": "Migrations\\20250915034137_SeedAdminUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T03:41:37.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250914134958_AddUserModel.cs",
+              "DocumentMoniker": "C:\\Users\\ssasg\\source\\repos\\BorrowSystem\\Borrowing-System-React-with-ASP.NET\\Backend\\Migrations\\20250914134958_AddUserModel.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250914134958_AddUserModel.cs",
+              "ToolTip": "C:\\Users\\ssasg\\source\\repos\\BorrowSystem\\Borrowing-System-React-with-ASP.NET\\Backend\\Migrations\\20250914134958_AddUserModel.cs",
+              "RelativeToolTip": "Migrations\\20250914134958_AddUserModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T13:49:59.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Backend.csproj",
+              "DocumentMoniker": "C:\\Users\\ssasg\\source\\repos\\BorrowSystem\\Borrowing-System-React-with-ASP.NET\\Backend\\Backend.csproj",
+              "RelativeDocumentMoniker": "Backend.csproj",
+              "ToolTip": "C:\\Users\\ssasg\\source\\repos\\BorrowSystem\\Borrowing-System-React-with-ASP.NET\\Backend\\Backend.csproj",
+              "RelativeToolTip": "Backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-14T13:41:24.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ssasg\\source\\repos\\BorrowSystem\\Borrowing-System-React-with-ASP.NET\\Backend\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\ssasg\\source\\repos\\BorrowSystem\\Borrowing-System-React-with-ASP.NET\\Backend\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContextFactory.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBMAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T13:41:02.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\REACT ASP NET MVC\\Borrowing System\\Backend\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\ssasg\\source\\repos\\BorrowSystem\\Borrowing-System-React-with-ASP.NET\\Backend\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\REACT ASP NET MVC\\Borrowing System\\Backend\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ssasg\\source\\repos\\BorrowSystem\\Borrowing-System-React-with-ASP.NET\\Backend\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T13:07:19.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\REACT ASP NET MVC\\Borrowing System\\Backend\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ssasg\\source\\repos\\BorrowSystem\\Borrowing-System-React-with-ASP.NET\\Backend\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\REACT ASP NET MVC\\Borrowing System\\Backend\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ssasg\\source\\repos\\BorrowSystem\\Borrowing-System-React-with-ASP.NET\\Backend\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwB0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T13:04:03.036Z",
               "EditorCaption": ""
@@ -62,22 +164,22 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\REACT ASP NET MVC\\Borrowing System\\Backend\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ssasg\\source\\repos\\BorrowSystem\\Borrowing-System-React-with-ASP.NET\\Backend\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\REACT ASP NET MVC\\Borrowing System\\Backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\ssasg\\source\\repos\\BorrowSystem\\Borrowing-System-React-with-ASP.NET\\Backend\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-09-09T09:44:30.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\REACT ASP NET MVC\\Borrowing System\\Backend\\WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\ssasg\\source\\repos\\BorrowSystem\\Borrowing-System-React-with-ASP.NET\\Backend\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\REACT ASP NET MVC\\Borrowing System\\Backend\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\ssasg\\source\\repos\\BorrowSystem\\Borrowing-System-React-with-ASP.NET\\Backend\\WeatherForecast.cs",
               "RelativeToolTip": "WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -86,13 +188,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\REACT ASP NET MVC\\Borrowing System\\Backend\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ssasg\\source\\repos\\BorrowSystem\\Borrowing-System-React-with-ASP.NET\\Backend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\REACT ASP NET MVC\\Borrowing System\\Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\ssasg\\source\\repos\\BorrowSystem\\Borrowing-System-React-with-ASP.NET\\Backend\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T09:44:17.112Z",
               "EditorCaption": ""
